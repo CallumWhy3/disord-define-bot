@@ -1,0 +1,12 @@
+{
+  "name": "define-bot",
+  "version": "1.0.0",
+  "description": "Bot used for defining words",
+  "main": "define-bot.js",
+  "author": "CALLUM-YOUNG",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "puppeteer": "^1.10.0",
+    "winston": "^3.1.0"
+  }
+}
